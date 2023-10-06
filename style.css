@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+}
+
+.top-container {
+    background-image: url("./assets/MyPhoto.JPG");
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 800px;
+    /* opacity: 0.5; */
+    /* filter: brightness(0.5); */
+    position: relative;
+}
+
+/* #box {
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+} */
+
+h1 {
+    margin: 0px;
+    text-align: center;
+    /* line-height: 400px; */
+    color: #5c2626;
+    /* position: absolute; */
+    display: flex;
+    justify-content: center;
+}
+
