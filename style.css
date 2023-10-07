@@ -20,7 +20,7 @@
     height: 800px;
     background-image: url("./assets/MyPhoto.JPG");
     background-size: cover;
-    background-position: 0% 60%;
+    background-position: center 60%;
 }
 
 nav {
